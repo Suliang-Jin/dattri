@@ -36,4 +36,4 @@ This section contains examples using attribution scores to find the data points 
 
 ## Retrain subsets and generate new ground truth
 
-[Retrain MLP/LR on MNIST-10 and obtain new ground truth, compare it with the data attribution score from full MNIST-10 + MLP/LR model](./lds_vs_gt/mnist.py)
+[Retrain MLP/LR on MNIST-10 and obtain new ground truth, then compare it with the data attribution score from full MNIST-10 + MLP/LR model](./lds_vs_gt/mnist.py)
